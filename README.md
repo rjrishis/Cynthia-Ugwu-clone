@@ -12,7 +12,8 @@ Welcome to my Cynthia-Ugwu-Clone! This project showcases a stylish and interacti
 
 ## Live Demo
 
-[Explore the live demo](https://rupeshsutarofficial.github.io/Cynthia-Ugwu-Clone/)
+[Explore the live demo](https://cynthia-ugwu-clone-one.vercel.app/)
+[Explore the live demo](https://cynthia-ugwu-clone-git-main-rishi-sharmas-projects.vercel.app/)
 
 ## Screenshots
 
@@ -36,6 +37,7 @@ Welcome to my Cynthia-Ugwu-Clone! This project showcases a stylish and interacti
 2. Open the project folder:
     ```bash
     cd Cynthia-Ugwu-Clone
+    cd cynthia ugwu
     ```
 
 3. Open the `index.html` file in your preferred web browser or set up a local server.
